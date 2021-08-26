@@ -8,6 +8,7 @@
     "space-before-function-paren": false,
     "no-namespace": false,
     "label-position": false,
+    "esModuleInterop": true,
     "quotemark": [true, "single", "jsx-double"],
     "member-access": false,
     "semicolon": [true, "always", "ignore-bound-class-methods"],
