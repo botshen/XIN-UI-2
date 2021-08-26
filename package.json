@@ -18,9 +18,11 @@
   },
   "homepage": "https://github.com/botshen/XIN-UI-2#readme",
   "devDependencies": {
+    "@webpack-cli/serve": "^1.5.2",
     "awesome-typescript-loader": "^5.2.1",
     "typescript": "^3.3.3333",
     "webpack": "^4.29.6",
-    "webpack-cli": "^3.2.3"
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.1"
   }
 }
